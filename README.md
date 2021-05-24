@@ -2,7 +2,7 @@
 
 ### I am a Digital Product Enthusiast.
 
-- 🌱 I’m currently learning to be a Full Stack Engineer and React
+- 🌱 I’m currently working as a front-end developer for mobile apps and web
 - 🥅 2021 Goals to post more on github!
 
 
