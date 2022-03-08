@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Aldi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Aldi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][Behance]
 
 <br />
 
@@ -38,3 +38,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/aldi-megantara-arifin/
+[Behance]: https://www.behance.net/aldimegantaraa
